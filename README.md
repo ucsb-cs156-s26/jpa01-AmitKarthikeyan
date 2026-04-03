@@ -1,7 +1,7 @@
 # jpa01-AmitKarthikeyan
 
 
-Deployed at: http://amitkarthikeyan.dokku-10.cs.ucsb.edu/
+Deployed at: https://amitkarthikeyan.dokku-10.cs.ucsb.edu/
 
 
 # About this repo
